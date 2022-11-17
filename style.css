@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(216, 255, 242);
+    position: relative;
+}
+
+body {
+    font-size: 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    margin: 0 auto;
+
+}
+
+h1 {
+    border-color: blanchedalmond;
+    margin: auto;
+}
+.bott {
+    font-size: 1em;
+    background-color: bisque;
+    border-radius: 20%;
+    border-color: azure;
+}
